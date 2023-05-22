@@ -129,7 +129,7 @@ textarea {
   top: calc(100% + 1.5rem);
   height: 5px;
   width: 3rem;
-  background: rgba(137, 196, 244);
+  background: #89c4f4;
   left: 50%;
   transform: translateX(-50%);
   border-radius: 5px;
