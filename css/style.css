@@ -194,8 +194,7 @@ textarea {
   font-size: 1.6rem;
 }
 .btn--theme {
-  background: #89C4F4
-  color: rgba(108, 122, 137);
+  background: #89c4f4 color rgb(108, 122, 137);
 }
 .btn--theme-inv {
   color: #0062b9;
